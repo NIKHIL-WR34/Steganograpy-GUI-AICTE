@@ -1,10 +1,5 @@
-Got it! I’ve updated the **README.md** to specify that this is the **GUI version** and renamed the script file to **stego-gui.py**.  
-
----
-
 ## 📌 **Updated README.md for GUI-Based Image Steganography**  
 
-```md
 # 🖼️ Image Steganography GUI using Python  
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue) 
