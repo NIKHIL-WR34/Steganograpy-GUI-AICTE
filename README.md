@@ -96,5 +96,6 @@ This project is open-source and available under the **MIT License**.
 ---
 
 ## 📬 **Contact**  
-🔗 LinkedIn: https://www.linkedin.com/in/nikhil-bhandari-n/  
+📧 Email: your.email@example.com  
+🔗 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
 ```
