@@ -89,5 +89,4 @@ This project is open-source and available under the **MIT License**.
 ---
 
 ## 📬 **Contact**  
-🔗 LinkedIn: https://www.linkedin.com/in/nikhil-bhandari-n/  
-```
+🔗 LinkedIn: https://www.linkedin.com/in/nikhil-bhandari-n/
