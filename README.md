@@ -37,8 +37,8 @@ pip install opencv-python tkinter
 
 ### **2️⃣ Clone This Repository**  
 ```bash
-git clone https://github.com/yourusername/image-steganography-gui.git
-cd image-steganography-gui
+git clone https://github.com/NIKHIL-WR34/Steganograpy-GUI-AICTE.git
+cd Steganograpy-GUI-AICTE
 ```
 
 ### **3️⃣ Run the GUI Application**  
