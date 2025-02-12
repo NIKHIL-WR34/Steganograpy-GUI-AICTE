@@ -1,5 +1,3 @@
-## 📌 **Updated README.md for GUI-Based Image Steganography**  
-
 # 🖼️ Image Steganography GUI using Python  
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue) 
@@ -91,6 +89,5 @@ This project is open-source and available under the **MIT License**.
 ---
 
 ## 📬 **Contact**  
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
+🔗 LinkedIn: https://www.linkedin.com/in/nikhil-bhandari-n/  
 ```
